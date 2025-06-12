@@ -1,0 +1,3 @@
+git remote add origin https://github.com/oscarsaulito/UMSA-13-06.git
+git branch -M main
+git push -u origin main
